@@ -36,7 +36,9 @@ To run the jupyter notebooks locally, use the file `environment.yml` located at 
 
 2. Place the file in the DRLND GitHub repository, in the root folder, and unzip (or decompress) the file. 
 
+### Implementation Details      
+See `Report.md` for description of the learning algorithm and implementation details. 
 ### Instructions
 
 Follow the instructions in `Navigation.ipynb` to get started with training your own agent!  
-
+  
